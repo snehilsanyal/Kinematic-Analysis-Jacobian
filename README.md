@@ -1,4 +1,4 @@
-# Comparative Kinematic Analysis of 6 DOF Anthropomorphic Robotic Manipulators Based on the Jacobian Matrix Approach
+# Kinematic Analysis of 6 DOF Anthropomorphic Robotic Manipulators Based on the Jacobian Matrix Approach
 
 This is the official repository for the paper:  
 **Comparative Kinematic Analysis of 6 DOF Anthropomorphic Robotic Manipulators Based on the Jacobian Matrix Approach**.
